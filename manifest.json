@@ -1,0 +1,21 @@
+{
+  "short_name": "GoStats",
+  "name": "GoStats",
+  "icons": [
+    {
+      "src": "/gostats.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/gostats.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ],
+  "start_url": "/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#605ca8",
+  "theme_color": "#605ca8"
+}
